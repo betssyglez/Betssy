@@ -1,2 +1,2 @@
-# Betssy Enlace a mi otro github: https://github.com/samglez-a11
+# Betssy 
 Enlace a mi otro github: https://github.com/samglez-a11
