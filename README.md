@@ -1,2 +1,2 @@
-# Samantha 
-Enlace a mi otro github: https://github.com/samglez-a11
+# Git Institucional
+Link to my other github account: https://github.com/samglez-a11
